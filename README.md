@@ -13,8 +13,10 @@ Responsive design: The app will adapt to different screen sizes, ensuring a smoo
 Additional features: Filtering tasks, clearing all tasks, and validating input to ensure data integrity.
 
 Live deployment: By the end, you’ll deploy the app to platforms like GitHub Pages or Netlify, making it accessible to everyone.
+
 <br> </br>
-Requirements for TaskBuddy Project 📝
+
+<b>Requirements for TaskBuddy Project 📝 </b>
 Name: TaskBuddy
 Type: Task Management Application
 
